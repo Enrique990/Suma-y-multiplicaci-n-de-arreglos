@@ -1,0 +1,9 @@
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe.config
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.exe
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\bin\Debug\Ejercicio 2.pdb
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.AssemblyReference.cache
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio_2.Properties.Resources.resources
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.GenerateResource.cache
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.csproj.CoreCompileInputs.cache
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.exe
+C:\Users\etaln\Documents\Programacion\c#\Suma y multiplicación de arreglos\Ejercicio 2\Ejercicio 2\obj\Debug\Ejercicio 2.pdb
